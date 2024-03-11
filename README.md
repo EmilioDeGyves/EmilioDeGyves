@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying at **Tec de Monterrey**
 
-- 🌱 I’m currently learning **UI, UX**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 👨‍💻 All of my projects are available at my repos
 
