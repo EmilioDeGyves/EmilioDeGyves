@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F331296116343570301%2F&psig=AOvVaw2p-hu6yKvWsrqXO3DGycwk&ust=1713370385614000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiCjZmQx4UDFQAAAAAdAAAAABAJ"  />
+  <img height="150" width="100%" object-fit="cover" src="https://media.sproutsocial.com/uploads/LinkedIn-Personal5B-Blank.jpg"  />
 </div>
 
 ###
