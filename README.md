@@ -1,97 +1,64 @@
-<div align="center">
-  <img height="150" width="100%" object-fit="cover" src="https://media.sproutsocial.com/uploads/LinkedIn-Personal5B-Blank.jpg"  />
-</div>
+# 👋 Hey, I'm Emilio
 
-###
+🎓 Computer Science graduate @ Tecnológico de Monterrey (ITESM)  
+💻 Passionate about **AI/ML** and **Backend Systems**
+🚀 Always building, experimenting, and learning by doing
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/emilio-de-gyves-garcía-20149a223" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+---
 
-###
+## 🌟 About Me
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=EmilioDeGyves.EmilioDeGyves&"  />
-</div>
+- 🐰 Co-Founder @ Insider-FM.
+- 🔬 Currently woeking @ Oracle as SWE II.
+- 🧠 Built **Brain Pods** at [CalHacks 11.0](https://calhacks.io/), a real-time AI-powered study pod platform (Kahoot + Zoom + AI).
+- 🤖 Continuously learning (currently exploring MCP servers)
+---
 
-###
+## 🛠️ Tech Stack
 
-<h1 align="center">hey there 👋</h1>
+### Languages & Frameworks
+- **Java, Python, TypeScript, Rust**
+- **FastAPI, Next.js, Express.js, Keras, PyTorch, SpringBoot, Micronaut**
 
-###
+### Databases & Infra
+- **PostgreSQL, Supabase, Milvus, mySQL**
+- **Docker, Kubernetes, Oracle Cloud (OCI), GCP**
 
-<h3 align="left">👩‍💻  About Me</h3>
+### AI/ML
+- **LLMs (Gemini, Groq, local LLMs)**
+- **RNN/GRU, CNN (Inception V3), Keras/TensorFlow**
+- **Coqui TTS, embeddings, RAG**
 
-###
+---
 
-<p align="left">I'm Emilio De Gyves<br><br>- 🔭 I’m working as software engineer intern at Oracle<br>- 📚 I'm currently learning spring and cloud computing<br>- ⚡ In my free time I learn new things :D</p>
+## 📌 Highlighted Projects
 
-###
+- 🎓 **Deepfake Detection Research**  
+  Real-time detection of facial and speech inconsistencies using transfer learning + RNNs. Benchmarked with **Celeb-DF v2**.
 
-<h3 align="left">🛠 Language and tools</h3>
+- 🧩 **Brain Pods**  
+  Hackathon project turned prototype: AI-powered group learning with real-time video + study pods. Built with **Next.js, Supabase, Agora WebRTC**.
 
-###
+- 📂 **Cloud RAG Knowledge Base**  
+  Indexed cloud pricing & Kaggle datasets with **Milvus embeddings**, powering async Gemini + Groq pipelines.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
+---
 
-###
+## 📈 Current Focus
 
-<h3 align="left">🔥   My Stats :</h3>
+- Launching my startup **InsiderFM**.  
+- Exploring different **TTS models**.  
+- Building my own **MCP servers**.  
+- Advancing **RAG pipelines** with embeddings and local inference.  
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=EmilioDeGyves&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+## 📫 Connect with Me
 
-###
+- 💼 [LinkedIn](https://linkedin.com/in/EmilioDeGyves) <!-- pon tu enlace real -->
+- 🐙 [GitHub](https://github.com/emilioDeGyves) <!-- pon tu enlace real -->
+- ✉️ Reach me at: `emiliodgg.contacto@gmail.com`
+
+---
+
+⭐️ *“I like to explore at the edge of AI, backend systems, and creative Software — always building things that blend solid engineering with human-centered design.”*
