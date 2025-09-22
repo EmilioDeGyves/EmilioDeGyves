@@ -1,5 +1,7 @@
 # 👋 Hey, I'm Emilio
 
+![Profile Views](https://komarev.com/ghpvc/?username=EmilioDeGyves&label=Profile%20views&color=0e75b6&style=flat)
+
 🎓 Computer Science graduate @ Tecnológico de Monterrey (ITESM)  
 💻 Passionate about **AI/ML** and **Backend Systems**
 🚀 Always building, experimenting, and learning by doing
@@ -55,8 +57,8 @@
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/EmilioDeGyves) <!-- pon tu enlace real -->
-- 🐙 [GitHub](https://github.com/emilioDeGyves) <!-- pon tu enlace real -->
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/EmilioDeGyves) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tu_usuario)
+
 - ✉️ Reach me at: `emiliodgg.contacto@gmail.com`
 
 ---
